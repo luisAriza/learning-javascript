@@ -1,1 +1,1 @@
-# Escuela de JavaScript
+# Curso básico de JavaScript

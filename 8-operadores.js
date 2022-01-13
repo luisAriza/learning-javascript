@@ -24,9 +24,9 @@ var a = 1;
 
 3 == '3' // es igual
 
-3 === '3' // es estrictamente igual 
+3 === '3' // es estrictamente igual, tanto el valor como el tipo de dato
 
-5 < 3, 5 <= 3, 5 > 3, 5 >= 3 // menor, menor o igual, mayo, mayor o igual 
+5 < 3, 5 <= 3, 5 > 3, 5 >= 3 // menor, menor o igual, mayor, mayor o igual 
 
 a && b // operador and (y), este operador genera una valicación siempe y cuando ambas variables sean verdad, "var 1 y var 2"
 
